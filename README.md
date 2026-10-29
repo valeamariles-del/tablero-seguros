@@ -1,2 +1,2 @@
 # tablero-seguros
-Deploy app Valentina Díaz
+Deploy app: Valentina Díaz
